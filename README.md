@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on deploying my full-stack application, [Hire-Mee](https://github.com/hire-mee/hire-mee).
 - 🌱 I’m currently implementing OAuth 2.0 to gain access to Google API.
 - 💬 Ask me about my transition from Communication Studies to Web Development!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liufrankie/), [Portfolio](frankiehliu.herokuapp.com), Email: zhuangfrankie@gmail.com.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liufrankie/), [Portfolio](https://www.frankiehliu.com/), Email: zhuangfrankie@gmail.com.
 - 😄 Pronouns: He/Him/His.
 
 
