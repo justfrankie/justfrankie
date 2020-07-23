@@ -1,5 +1,5 @@
 ### Hello! 
-![Welcome Splash](https://personal-fhl.s3-us-west-1.amazonaws.com/Frankie+H.+Liu+(1).png)
+![Welcome Splash](https://s3-us-west-1.amazonaws.com/frankiehliu.com/Frankie+H.+Liu+(1).png)
 - :star: Who am I: someone who sees web design in an artistic nature, especially simple & bold visuals.
 - ⚡ Fun fact: I have background in fine arts, mainly watercolor, oil painting, and colored pencils.
 - 🔭 I’m currently working on deploying my full-stack application, [Hire-Mee](https://github.com/hire-mee/hire-mee).
