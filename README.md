@@ -1,4 +1,3 @@
-### Hello! 
 ![Welcome Splash](https://s3-us-west-1.amazonaws.com/frankiehliu.com/Frankie+H.+Liu+(1).png)
 - :star: Who am I: someone who sees web design in an artistic nature, especially simple & bold visuals.
 - ⚡ Fun fact: I have background in fine arts: watercolor, oil painting, and colored pencils.
