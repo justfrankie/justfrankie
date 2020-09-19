@@ -5,4 +5,4 @@
 - :notes: Currently checking out GraphQL to work with APIs.
 - 💬 Ask me about my transition from Communication Studies to Web Development!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liufrankie/), [Portfolio](https://www.frankiehliu.com/), Email: zhuangfrankie@gmail.com.
-- 😄 Pronouns: He/Him/His.
+- 😄 Pronouns: He/Him/His!
