@@ -4,5 +4,5 @@
 - 🔭 Check out my latest web application, [Hire-Mee](http://54.183.118.152:3000/).
 - :notes: Currently learning GraphQL!
 - 💬 Ask me about my transition from Communication Studies to Web Development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liufrankie/), [Portfolio](https://www.frankiehliu.com/), Email: zhuangfrankie@gmail.com.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liufrankie/), [Portfolio](https://www.frankiehliu.com/), Email: frankiehaoliu@gmail.com.
 - 😄 Pronouns: He/Him/His.
