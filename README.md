@@ -5,4 +5,4 @@
 - :notes: Currently learning new topics every single day through my 100 days of code: [See my LinkedIn Posts](https://www.linkedin.com/in/liufrankie/)!
 - 💬 Ask me about my transition from Communication Studies to Web Development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liufrankie/), [Portfolio](https://www.frankiehliu.com/), Email: frankiehaoliu@gmail.com.
-- 😄 Pronouns: He/Him/His.
+- 😄 Pronouns: He/Him/His!
