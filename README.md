@@ -5,4 +5,5 @@
 - :notes: Here is my 100 days of code: [See my LinkedIn Posts](https://www.linkedin.com/in/liufrankie/)!
 - 💬 Ask me about my transition from 0 coding background to becoming a SWE in a single year. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liufrankie/), [Portfolio](https://www.frankiehliu.com/), Email: frankiehaoliu@gmail.com.
-- 😄 Pronouns: He/Him/His!
+- 😄 Pronouns: He/Him/His.
+
