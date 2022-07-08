@@ -1,4 +1,4 @@
-![Hero Image](https://s3.us-west-1.amazonaws.com/frankiehliu.com/portfolio-assets/Github+cover.png)
+![Hero Image](https://s3.us-west-1.amazonaws.com/frankiehliu.com/portfolio-assets/Github+cover2.png)
 - :star: Who I am: A software engineer with emphasis in elegant, simple, and bold visuals.
 - ⚡ Fun fact: I have background in fine arts: watercolor, oil painting, and colored pencils.
 - 🔭 Check out my latest web application, [Hire-Mee](http://54.183.118.152:3000/).
