@@ -6,7 +6,8 @@
 - :notes: Here are my 100 days of code during my job search journey: [See my LinkedIn Posts](https://www.linkedin.com/in/liufrankie/)!
 - 💬 Ask me about my transition from 0 coding background to becoming a SWE in a single year.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liufrankie/), [Portfolio](https://www.frankiehliu.com/), Email: frankiehaoliu@gmail.com.
-- 😄 Currently actively seeking new opportunities.
+- ✌️ seeking new opportunities.
+- Currently working on a full stack application with React, Node.js, Golang
 
 ### Tech Stack
 
